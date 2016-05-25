@@ -6,7 +6,7 @@
  *
  *  % java HelloWorld
  *  Hello, World
- *  we also have add it to https://github.com/Shivaprasadr/GIT
+ *
  *  These 17 lines of text are comments. They are not part of the program;
  *  they serve to remind us about its properties. The first two lines tell
  *  us what to type to compile and test the program. The next line describes
