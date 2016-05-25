@@ -15,7 +15,7 @@
  *  lines in our programs and encourage you to do the same.
  *
  ******************************************************************************/
-
+package oata;
 public class HelloWorld {
 
     public static void main(String[] args) {
